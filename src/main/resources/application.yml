@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: clean-demo
+server:
+  port: 5050
